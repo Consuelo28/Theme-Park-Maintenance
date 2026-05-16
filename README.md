@@ -16,7 +16,8 @@ This project introduces a cloud-connected IoT ecosystem capable of continuously 
 __________________________________________________________________
 System Architecture: 
 - The platform follows an end-to-end Edge-to-Cloud IoT architecture
-Animatronic Sensors (Temperature, Vibration, Power Draw) -> Python Sensor Simulator (robot_sim.py) -> MQTT Broker (EMQX / Eclipse Mosquitto) -> Dockerized IoT Gateway -> Google Cloud BigQuery -> Streamlit Dashboard (Real-Time Monitoring & Alerts)
+  
+Animatronic Sensors (Temperature, Vibration, Power Draw) → Python Sensor Simulator (robot_sim.py) → MQTT Broker (EMQX / Eclipse Mosquitto) → Dockerized IoT Gateway → Google Cloud BigQuery → Streamlit Dashboard (Real-Time Monitoring & Alerts)
 __________________________________________________________________
 Features:
 - Real-time animatronic telemetry simulation
