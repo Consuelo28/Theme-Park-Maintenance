@@ -130,8 +130,7 @@ Course Information:
 Developed for the IoT & Cloud Technologies course at SRH University Berlin.
 __________________________________________________________________
 Authors:
-Consuelo Cornejo Antilef
-Clara Rowe
+Consuelo Cornejo Antilef & Clara Rowe
 __________________________________________________________________
 License:
 This project was developed for academic purposes.
