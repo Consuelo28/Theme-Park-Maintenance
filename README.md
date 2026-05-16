@@ -94,17 +94,17 @@ This significantly improved dashboard responsiveness and user experience.
 __________________________________________________________________
 Installation: 
 1. Clone the Repository
-   git clone https://github.com/Consuelo28/Theme-Park-Maintenance.git
-   cd Theme-Park-Maintenance
-2. Install dependencies
-   pip install -r requirements.txt
-3. Configure Google Cloud Credentials
-Add your Google Cloud Service Account Key.
-Ensure the service account has permission to write to your BigQuery table.
+    - git clone https://github.com/Consuelo28/Theme-Park-Maintenance.git
+    - cd Theme-Park-Maintenance
+2. Install dependencies:
+  - pip install -r requirements.txt
+3. Configure Google Cloud Credentials:
+  - Add your Google Cloud Service Account Key.
+  - Ensure the service account has permission to write to your BigQuery table.
 4. Run Docker Services:
-   docker compose up
+  - docker compose up
 5. Start the Streamlit Dashboard
-   streamlit run dashboard.py
+  - streamlit run dashboard.py
 __________________________________________________________________
 Future Improvements:
 Planned future enhancements include:
